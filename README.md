@@ -34,5 +34,4 @@ IMXIL
 ----
 
 WAV Dateien können bei den Releases als zip heruntergeladen werden.
-Anleitung zum Einreichen eines Remix folgt...  
-Wer mit Git vertraut ist, legt jetzt schon los ;-)
+Remixes bitte an info@stuhrblick.de senden.
